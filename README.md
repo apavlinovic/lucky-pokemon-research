@@ -10,4 +10,4 @@ This repository contains data and code behind GO Hub's Lucky Pokemon research. Y
 
 If you did everything right, you should see something like this:
 
-![Image of Lucky Analysis](https://github.com/apavlinovic/lucky-pokemon-research/screenshot.png)
+![Image of Lucky Analysis](https://raw.githubusercontent.com/apavlinovic/lucky-pokemon-research/master/screenshot.png)
