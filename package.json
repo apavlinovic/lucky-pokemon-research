@@ -1,0 +1,19 @@
+{
+  "name": "lucky-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "csv-parse": "^2.5.0",
+    "csv-parser": "^1.12.1",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2"
+  }
+}
